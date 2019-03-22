@@ -1,3 +1,4 @@
+
 require_relative "../lib/my_find.rb"
 
 collection = (1..100).to_a
